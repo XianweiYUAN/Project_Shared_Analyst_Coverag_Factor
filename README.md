@@ -1,2 +1,3 @@
-# Quant
-My quant projects:)
+# Quantitative trading & factor construction
+Welcome!
+This is my quant project
